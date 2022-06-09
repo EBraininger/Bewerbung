@@ -1,0 +1,5 @@
+C:\Users\erikb\source\repos\V1.2 Rhino Reifen\obj\Debug\V1.2 Rhino Reifen.csproj.AssemblyReference.cache
+C:\Users\erikb\source\repos\V1.2 Rhino Reifen\obj\Debug\V1._2_Rhino_Reifen.Form1.resources
+C:\Users\erikb\source\repos\V1.2 Rhino Reifen\obj\Debug\V1._2_Rhino_Reifen.Properties.Resources.resources
+C:\Users\erikb\source\repos\V1.2 Rhino Reifen\obj\Debug\V1.2 Rhino Reifen.csproj.GenerateResource.cache
+C:\Users\erikb\source\repos\V1.2 Rhino Reifen\obj\Debug\V1.2 Rhino Reifen.csproj.CoreCompileInputs.cache
